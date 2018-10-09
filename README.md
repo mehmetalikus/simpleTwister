@@ -1,2 +1,2 @@
-# simpleTwister
+# twisterWheel
 twister wheel
